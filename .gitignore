@@ -140,6 +140,10 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#Mira Turp instruction video additions
+.DS_Store
+*.csv
+
 # mypy
 .mypy_cache/
 .dmypy.json
